@@ -1,3 +1,5 @@
+[![Test](https://github.com/ChicoState/q03-annasehgal/actions/workflows/ci.yml/badge.svg)](https://github.com/ChicoState/q03-annasehgal/actions/workflows/ci.yml)
+
 # GuesserTest
 
 ## Getting Started
