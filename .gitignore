@@ -41,18 +41,5 @@
 *.a
 
 # CMake files
-Guesser.cpp.gcov
-Guesser.gcda
-Guesser.gcno
-Guesser.o
 GuesserTest
-GuesserTest.gcda
-GuesserTest.gcno
-GuesserTest.o
-gtest-all.gcda
-gtest-all.gcno
-gtest-all.o
 gtest_main.a
-gtest_main.gcda
-gtest_main.gcno
-gtest_main.o
